@@ -1,6 +1,6 @@
 # Mark-Mod
 
-Features
+# Features
 
 . Custom textures that let you have a huge competitve advantage over other players.
 
@@ -8,7 +8,7 @@ Features
 
 . Extra in game settings menus to customise the game and improve performance.
 
-Installation
+# Installation
 
 1. Download The Files : https://github.com/Remarkmontilla/Mark-Mod
 2. Download and open Mark Mod.zip
