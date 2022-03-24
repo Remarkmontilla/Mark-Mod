@@ -15,9 +15,4 @@ Installation
 3. Extract the "files" folder from Mark Mod.zip into your Venge Client Resource Swapper
 4. Extract the "charfix.js" into your Venge Client Userscripts folder
 5. Launch or restart your client
-Installation
-Download the latest release here.
-Download and open PredMod.zip
-Extract the "files" folder from PredMod.zip into your Venge Client Resource Swapper
-Extract the "predmodscript.js" & "charfix.js" into your Venge Client Userscripts folder
-Launch or restart your client
+6. 
