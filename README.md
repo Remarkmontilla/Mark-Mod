@@ -1,5 +1,4 @@
 # Mark-Mod
-if you want my discord join here: https://discord.gg/HmAzaWhK
 
 Features
 . Custom textures that let you have a huge competitve advantage over other players.
